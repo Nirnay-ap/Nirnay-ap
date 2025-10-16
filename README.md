@@ -1,24 +1,39 @@
 # 👋 Hello, I'm Nirnay AP!
----
-
-**PROFILE VIEWS**  
-![Profile Views](https://komarev.com/ghpvc/?username=Nirnay-ap&color=blue)
+**🎓 Electronics & Communication Engineering| 🔋 Embedded Systems Developer | 💻 Python & C Programmer**
 
 ---
 
-🔗 **LINKEDIN** • [Connect with me](https://www.linkedin.com/in/nirnay-ap-660635234/)  
-📧 **EMAIL** • apnimay7@gmail.com  
+<div align="center">
+
+()
+
+
+</div>
+
+---
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+</div>
+
+
+
+
+
+
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-apnimay7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apnirnay7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirnay-ap-660635234/)
+
+---
 
 ## 🎓 About Me
 
-**🎓 Electronics & Communication Engineering| 🔋 Embedded Systems Developer | 💻 Python & C Programmer**
-
-ECE Graduate from Mar Athanasius College of Engineering | Embedded Systems | 9.01 CGPA
-
 Expertise in BMS Devt, and IoT solutions. Proven track record of designing and implementing innovative engineering projects including 24V BMS systems and smart automation solutions.
-
-
-📧 **Email:** apnimay7@gmail.com  
 
 ## 🔧 Technical Skills
 
@@ -38,7 +53,7 @@ Expertise in BMS Devt, and IoT solutions. Proven track record of designing and i
 [![Verify Certification](https://img.shields.io/badge/Verify_Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-gb/users/nirnayap-0648/credentials/d55670f7f8ede9ee)
 - **Issued:**[19 June 2024]
 - **Credential ID:** [ D55670F7F8EDE9EE]
-- **Verify:** [Click to verify on Microsoft Learn]
+
 
 ## 🚀 Featured Projects
 
@@ -73,12 +88,11 @@ Arduino-based irrigation system with capacitive soil moisture sensor and fail-sa
 ### 👥 Leadership Experience
 - **Sponsorship Executive** - Takshak 23 Tech Fest
 - **Infrastructure Sub-coordinator** - Takshak 2023
-- College-level athletics participant (100m sprint, relay, football)
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-apnimay7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apnimay7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-apnimay7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apnirnay7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirnay-ap-660635234/)
 
 ---
 

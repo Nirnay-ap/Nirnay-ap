@@ -1,8 +1,22 @@
 # 👋 Hello, I'm Nirnay AP!
+---
+
+**PROFILE VIEWS**  
+![Profile Views](https://komarev.com/ghpvc/?username=Nirnay-ap&color=blue)
+
+---
+
+🔗 **LINKEDIN** • [Connect with me](https://www.linkedin.com/in/nirnay-ap-660635234/)  
+📧 **EMAIL** • apnimay7@gmail.com  
+
+## 🎓 About Me
 
 **🎓 Electronics & Communication Engineering| 🔋 Embedded Systems Developer | 💻 Python & C Programmer**
 
-I'm a passionate Electrical Engineering student at Mar Athanasius College of Engineering with a strong academic record (9.01/10 CGPA) and hands-on experience in embedded systems, battery management, and IoT projects.
+ECE Graduate from Mar Athanasius College of Engineering | Embedded Systems | 9.01 CGPA
+
+Expertise in BMS Devt, and IoT solutions. Proven track record of designing and implementing innovative engineering projects including 24V BMS systems and smart automation solutions.
+
 
 📧 **Email:** apnimay7@gmail.com  
 
@@ -18,8 +32,13 @@ I'm a passionate Electrical Engineering student at Mar Athanasius College of Eng
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-### ☁️ Certifications
-**Microsoft Certified: Azure AI Fundamentals (AI-900)**
+## 📜 Certifications
+
+### 🏆 Microsoft Certified: Azure AI Fundamentals (AI-900)
+[![Verify Certification](https://img.shields.io/badge/Verify_Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-gb/users/nirnayap-0648/credentials/d55670f7f8ede9ee)
+- **Issued:**[19 June 2024]
+- **Credential ID:** [ D55670F7F8EDE9EE]
+- **Verify:** [Click to verify on Microsoft Learn]
 
 ## 🚀 Featured Projects
 

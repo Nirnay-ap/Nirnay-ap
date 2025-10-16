@@ -1,16 +1,6 @@
 # 👋 Hello, I'm Nirnay AP!
 **🎓 Electronics & Communication Engineering| 🔋 Embedded Developer | 💻 Python & C Programmer**
 
----
-
-<div align="center">
-
-()
-
-
-</div>
-
----
 
 
 ## 📫 Let's Connect!

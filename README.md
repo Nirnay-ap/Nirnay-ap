@@ -1,5 +1,5 @@
 <h1>
-  Hello there ! :wave: I'm Nirnay AP
+  Hi:wave: I'm Nirnay AP
 </h1>
 
 <div id="header" align="center">

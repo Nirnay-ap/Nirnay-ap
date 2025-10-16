@@ -3,7 +3,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNpb29zZG84azNycmI2cnljNHNidDl3ZHR1Y242MW0ycWF5d3NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="850"/>
+  <img src="https://https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw" width="850"/>
 </div>
 
 **🎓 Electronics & Communication Engineering| 🔋 Embedded Developer | 💻 Python & C Programmer**

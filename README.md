@@ -1,4 +1,14 @@
-# 👋 Hello, I'm Nirnay AP!
+<h1>
+  Hello there ! :wave: I'm Nirnay AP
+</h1>
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNpb29zZG84azNycmI2cnljNHNidDl3ZHR1Y242MW0ycWF5d3NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="850"/>
+</div>
+
 **🎓 Electronics & Communication Engineering| 🔋 Embedded Developer | 💻 Python & C Programmer**
 
 
@@ -55,7 +65,7 @@ Arduino-based irrigation system with capacitive soil moisture sensor and fail-sa
   
 ![Nirnay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirnay-ap&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirnay-ap&layout=compact&theme=radical&hide_border=true)
+
 
 </div>
 

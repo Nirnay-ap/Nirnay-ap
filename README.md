@@ -1,11 +1,10 @@
 # 👋 Hello, I'm Nirnay AP!
 
-**🎓 Electrical Engineering Student | 🔋 Embedded Systems Developer | 💻 Python & C Programmer**
+**🎓 Electronics & Communication Engineering| 🔋 Embedded Systems Developer | 💻 Python & C Programmer**
 
 I'm a passionate Electrical Engineering student at Mar Athanasius College of Engineering with a strong academic record (9.01/10 CGPA) and hands-on experience in embedded systems, battery management, and IoT projects.
 
 📧 **Email:** apnimay7@gmail.com  
-📞 **Phone:** +91 7510771002
 
 ## 🔧 Technical Skills
 
@@ -24,7 +23,7 @@ I'm a passionate Electrical Engineering student at Mar Athanasius College of Eng
 
 ## 🚀 Featured Projects
 
-### 🔋 [Battery Management System](https://github.com/Nirnay-ap/BMS-Project)
+### 🔋 [Battery Management System](https://github.com/Nirnay-ap/24V_6Ah_Battery_Management_System)
 **April 2025**  
 Design and assembly of 24V 6Ah battery pack using LiFePO4 Cells with BMS module using BQ76952 and STM32 microcontroller.
 

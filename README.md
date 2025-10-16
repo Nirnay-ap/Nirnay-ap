@@ -27,11 +27,11 @@ I'm a passionate Electrical Engineering student at Mar Athanasius College of Eng
 **April 2025**  
 Design and assembly of 24V 6Ah battery pack using LiFePO4 Cells with BMS module using BQ76952 and STM32 microcontroller.
 
-### 🔢 [LED Matrix Display](https://github.com/Nirnay-ap/LED-Matrix-Display)
+### 🔢 [LED Matrix Display](https://github.com/Nirnay-ap/LED_Matrix_Display)
 **May 2024**  
 Smartphone-controlled scrolling LED display with Bluetooth connectivity for real-time content updates and power management system.
 
-### 💧 [Automatic Irrigation System](https://github.com/Nirnay-ap/Automatic-Irrigation-System)
+### 💧 [Automatic Irrigation System](https://github.com/Nirnay-ap/AUTOMATIC-PLANT-IRRIGATION-SYSTEM)
 **July 2023**  
 Arduino-based irrigation system with capacitive soil moisture sensor and fail-safe firmware for automated plant watering.
 

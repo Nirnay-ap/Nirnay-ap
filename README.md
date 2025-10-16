@@ -3,7 +3,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWo2anNlMXVkYW4zMTNyOG5hZzJ5djE0ejJiMnRvMGV4MHM3dHhiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="850"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWo2anNlMXVkYW4zMTNyOG5hZzJ5djE0ejJiMnRvMGV4MHM3dHhiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="850"/>
 </div>
 
 **🎓 Electronics & Communication Engineering| 🔋 Embedded Developer | 💻 Python & C Programmer**

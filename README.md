@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Nirnay AP!
-**🎓 Electronics & Communication Engineering| 🔋 Embedded Systems Developer | 💻 Python & C Programmer**
+**🎓 Electronics & Communication Engineering| 🔋 Embedded Developer | 💻 Python & C Programmer**
 
 ---
 
@@ -11,29 +11,18 @@
 </div>
 
 ---
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-</div>
-
-
-
-
 
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-apnimay7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apnirnay7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-apnirnay7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apnirnay7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirnay-ap-660635234/)
 
 ---
 
 ## 🎓 About Me
 
-Expertise in BMS Devt, and IoT solutions. Proven track record of designing and implementing innovative engineering projects including 24V BMS systems and smart automation solutions.
+Expertise in BMS Development, and IoT solutions. Proven track record of designing and implementing innovative engineering projects including 24V BMS systems and smart automation solutions.
 
 ## 🔧 Technical Skills
 
@@ -45,7 +34,8 @@ Expertise in BMS Devt, and IoT solutions. Proven track record of designing and i
 
 ### 🛠️ Engineering Tools
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![STM32Cube IDE](https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 📜 Certifications
 

@@ -13,9 +13,11 @@
 
 ## 📫 Let's Connect!
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nirnay-ap.github.io)
 [![Email](https://img.shields.io/badge/Email-apnirnay7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apnirnay7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirnay-ap-660635234/)
-[![PORTFOLIO](https://nirnay-ap.github.io)
+
+
 
 ---
 

@@ -74,15 +74,7 @@ Arduino-based irrigation system with capacitive soil moisture sensor and fail-sa
 - Implemented interrupt-driven data transfer mechanisms
 - Gained hands-on experience with MPLAB X IDE and embedded system design patterns
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![Nirnay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirnay-ap&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirnay-ap&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 🏆 Achievements & Leadership
 
@@ -103,6 +95,6 @@ Arduino-based irrigation system with capacitive soil moisture sensor and fail-sa
   
 **⚡ "Turning complex engineering problems into practical embedded solutions"**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Nirnay-ap&color=brightgreen&style=for-the-badge)](https://github.com/Nirnay-ap)
+
 
 </div>

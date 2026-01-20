@@ -17,6 +17,15 @@
 ## 🎓 About Me
 Embedded Systems Developer with expertise in low-power communication protocols, BMS development, and SoC verification. Proven track record of designing innovative engineering solutions including battery management systems, hardware-software co-verification frameworks, and IoT automation solutions.
 
+## 💼 Experience
+
+### 🔬 Embedded Software Engineering Intern
+**Microchip Technology** | December 2024 - January 2025
+- Developed low-power SPI communication solutions for AVR microcontrollers
+- Achieved 40% reduction in power consumption through optimization techniques
+- Implemented interrupt-driven data transfer mechanisms
+- Gained hands-on experience with MPLAB X IDE and embedded system design patterns
+
 ## 🔧 Technical Skills
 
 ### 💻 Programming & Development
@@ -64,17 +73,6 @@ Smartphone-controlled scrolling LED display with Bluetooth connectivity for real
 ### 💧 [Automatic Irrigation System](https://github.com/Nirnay-ap/AUTOMATIC-PLANT-IRRIGATION-SYSTEM)
 **July 2023**  
 Arduino-based irrigation system with capacitive soil moisture sensor and fail-safe firmware for automated plant watering.
-
-## 💼 Experience
-
-### 🔬 Embedded Software Engineering Intern
-**Microchip Technology** | December 2024 - January 2025
-- Developed low-power SPI communication solutions for AVR microcontrollers
-- Achieved 40% reduction in power consumption through optimization techniques
-- Implemented interrupt-driven data transfer mechanisms
-- Gained hands-on experience with MPLAB X IDE and embedded system design patterns
-
-
 
 ## 🏆 Achievements & Leadership
 

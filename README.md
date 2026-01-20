@@ -20,7 +20,7 @@ Embedded Systems Developer with expertise in low-power communication protocols, 
 ## 💼 Experience
 
 ### 🔬 Embedded Software Engineering Intern
-**Microchip Technology** | December 2024 - January 2025
+**Microchip Technology** | July 2024 - October 2024
 - Developed low-power SPI communication solutions for AVR microcontrollers
 - Achieved 40% reduction in power consumption through optimization techniques
 - Implemented interrupt-driven data transfer mechanisms

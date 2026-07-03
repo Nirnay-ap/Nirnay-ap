@@ -78,7 +78,7 @@ Arduino-based irrigation system with capacitive soil moisture sensor and fail-sa
 
 ### 🎯 Academic Excellence
 - Consistently ranked among top 5 students in Electronics and Communication Engineering Department
-- CGPA: 8.99/10
+- CGPA: 9.06/10
 
 ### 👥 Leadership Experience
 - **Head of Events – Infrastructure & Sponsorship** - Takshak Tech Fest 2024
